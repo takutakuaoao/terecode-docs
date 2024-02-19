@@ -12,7 +12,7 @@ We will provide their services to you, which are subject to the conditions state
 
 ## Privacy Policy
 
-Before you continue using our website we advise you to read our **[privacy policy](/docs/privacy-policy)**  regarding our user data collection. It will help you better understand our practices.
+Before you continue using our website we advise you to read our **[privacy policy](/docs/policies/privacy-policy)**  regarding our user data collection. It will help you better understand our practices.
 
 ## Copyright
 
