@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: "Terms",
-                to: "/docs/terms",
+                to: "/docs/policies/terms",
               },
             ],
           },
