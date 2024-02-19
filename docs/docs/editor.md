@@ -1,6 +1,14 @@
-# Editor Keybinding
+# Editor
 
-## Cursor
+<!-- ## Code Block
+
+You can include several **Code Block** in post content.
+
+They  -->
+
+## Keybinding
+
+### Cursor
 
 | Style | Key |
 | :---: | :---: |
@@ -16,14 +24,14 @@
 | Right Select | `Ctrl` + `Shift` + `l` |
 | Head Line Select | `Ctrl` + `Shift` + `g` |
 
-## Block
+### Block
 
 | Style | Key |
 | :---: | :---: |
 | Code Block | `Ctrl` + `p` |
 | Table Block | `Ctrl` + `t` |
 
-## Other
+### Other
 
 | Style | Key |
 | :---: | :---: |
