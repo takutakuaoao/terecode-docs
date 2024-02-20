@@ -8,8 +8,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Terecode",
-  favicon: "img/favicon.ico",
+  title: "Terecode Docs",
+  favicon: "img/logo.svg",
 
   // Set the production url of your site here
   url: "https://takutakuaoao.github.io",
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Terecode",
+        title: "Terecode Docs",
         logo: {
           alt: "Terecode Logo",
           src: "img/logo.svg",
